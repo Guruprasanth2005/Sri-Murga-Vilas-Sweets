@@ -13,11 +13,11 @@ const Navbar = () => {
         {/* Centered Text */}
         <div className="absolute left-1/2 transform -translate-x-1/2 text-center">
           <h1 className="text-xl md:text-2xl font-bold text-yellow-600">
-            SRI MURGA VILAS NELLAI LALA SWEETS
+            SRI MURGA VILAS SWEETS
           </h1>
 
           <p className="text-sm md:text-base italic text-gray-600 mt-1">
-            Sweet Delight – Delighting Every Bite with Sweetness
+             Delighting Every Bite with Sweetness
           </p>
         </div>
 
